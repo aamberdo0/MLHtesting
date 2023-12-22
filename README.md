@@ -1,4 +1,4 @@
-#MLH Fellowship
+# MLH Fellowship
 
 Description:
 A JavaScript program that populate data from array into select drop-down list. 
