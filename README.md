@@ -10,5 +10,6 @@ A JavaScript program that populate data from array into select drop-down list.
 - LinkedIn: [ Amber Do](https://www.linkedin.com/in/amber-do04/)
 
 ## Language:
+- HTML
 - Javascript
 
