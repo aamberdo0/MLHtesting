@@ -1,7 +1,9 @@
 # MLH Fellowship
 
 Description:
-A JavaScript program that populate data from array into select drop-down list. 
+Using DOM manipulation, for loops, template literals and functions, this JavaScript
+program adds data about each game as a card to the games-container elements and display 
+on the webpage. 
 
 ## Authors
 
